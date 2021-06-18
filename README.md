@@ -8,7 +8,7 @@ Simple app to render weather based on user's input - Node.js -  Express.js - Han
 In the project directory, you can run:
 
 ### `npm install`
-### `nodemon <file name> -e js,hbs`
+### `npm run dev`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
